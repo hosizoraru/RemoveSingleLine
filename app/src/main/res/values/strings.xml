@@ -1,3 +1,4 @@
 <resources>
-  <string name="app_name">RemoveSingleLine</string>
+    <string name="app_name">RemoveSingleLine</string>
+    <string name="xposed_desc">Remove Single Line</string>
 </resources>
